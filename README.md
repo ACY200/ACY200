@@ -2,7 +2,7 @@
 <h3 align="center">A Backend Web and Game Developer!!!</h3>
 <br>
 <p>Hello it's been a while since I talked about myself as a Developer because nowadays...it ain't that easy to be one.... I am Certified Backend Web and Game Developer and I own the OS...it doesn't own me back!!!<p>
-<img href = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3O4CQH5KIyzY20hCIlHERVAFPcY5wFVMauzTE3z9dfLp9MKt16-N7tMr-JkTzuU9Qm_4&usqp=CAU&w=65&h=65">
+<img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3O4CQH5KIyzY20hCIlHERVAFPcY5wFVMauzTE3z9dfLp9MKt16-N7tMr-JkTzuU9Qm_4&usqp=CAU&w=65&h=65">
 <br><br>
 <hr>
 <h3 align="left">Most Used Language:JAVA</h3>
