@@ -1,7 +1,12 @@
-<h1 align="center">Hi 👋, I'm Namesis King</h1>
-<h3 align="center">A Backend Web and Game Developer!!!</h3>
-<br>
-<p>Hello it's been a while since I talked about myself as a Developer because nowadays...it ain't that easy to be one.... I am Certified Backend Web and Game Developer and I own the OS...it doesn't own me back!!!<p>
+<h1 align="center">Hi 👋, I'm Nemesis King</h1>
+<h3 align="center">A Backend Web and Game Developer!!!</h3><br>
+
+<p><u>Hello it's been a while since I talked about myself as a Developer because nowadays...it ain't that easy to be one.... I am Certified Backend Web and Game Developer and I own the OS...it doesn't own me back!!!</u><p><br>
+
+<h5>After finishing three long years in college I started with Java and me being 18 years old at that time I really manage to amplify my technical skills. I really tried getting a job in technical industry, though the strain was
+  that<b>the high <U>DEMAND</U></b>on skills and perks really made getting into the tech industry a labour to straight up impossible...I ended up becoming a hardware engineer which suits me better than be a software developer.</h5><br>
+
+  <h4 align = "center"">I am a huge fan of american pool</h4>
   
 <br>![Watch Dogs](https://github.com/user-attachments/assets/829ded2c-533e-4af6-a70e-23e4abc300b0)<br>
 
