@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nemesis King</h1>
-<h3 align="center">A Backend Web and Game Developer!!!</h3><br>
+<h3 align="center">I am an proficient Java Developer and advanced in other programming languages!!!</h3><br>
 
 <p><u>Hello it's been a while since I talked about myself as a Developer because nowadays...it ain't that easy to be one.... I am Certified Backend Web and Game Developer and I own the OS...it doesn't own me back!!!</u><p><br>
 
